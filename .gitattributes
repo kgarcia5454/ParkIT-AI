@@ -1,2 +1,1 @@
-frontend** linguist-vendored
-target/** linguist-vendored
+*.ts linguist-detectable=false
