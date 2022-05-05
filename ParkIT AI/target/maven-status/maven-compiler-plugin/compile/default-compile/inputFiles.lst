@@ -1,0 +1,17 @@
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/views/list/ParkingLot1View.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/data/entity/Status.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/security/SecurityConfig.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/views/list/ParkingLot2View.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/data/repository/ContactRepository.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/data/repository/CompanyRepository.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/views/list/MainLayout.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/data/repository/StatusRepository.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/data/entity/AbstractEntity.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/views/list/ListView.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/Application.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/security/SecurityService.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/views/list/LoginView.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/data/entity/Contact.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/views/list/ParkingLot3View.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/data/entity/Company.java
+/Users/kevin/Documents/GitHub/flow-crm-tutorial/quickspot-demo/src/main/java/com/example/application/data/generator/DataGenerator.java
