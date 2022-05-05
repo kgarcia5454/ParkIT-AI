@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/kevin/Documents/GitHub/QuickSpot",
+  "node.version": "v16.14.2",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/Users/kevin/Documents/GitHub/QuickSpot/target/frontend",
+  "frontendFolder": "/Users/kevin/Documents/GitHub/QuickSpot/frontend",
+  "connect.javaSourceFolder": "/Users/kevin/Documents/GitHub/QuickSpot/src/main/java",
+  "javaResourceFolder": "/Users/kevin/Documents/GitHub/QuickSpot/src/main/resources",
+  "connect.applicationProperties": "/Users/kevin/Documents/GitHub/QuickSpot/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/kevin/Documents/GitHub/QuickSpot/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/kevin/Documents/GitHub/QuickSpot/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
